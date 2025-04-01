@@ -1,0 +1,10 @@
+.canvas-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.decorative-canvas {
+  border-radius: 8px;
+  background: #f9f9f9;
+}
